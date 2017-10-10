@@ -6,7 +6,21 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
+				"spring_2.jpg",
+				"spring_3.jpeg",
+				"spring_4.jpeg",
+				"spring_5.jpg",
+				"spring_6.jpeg"
+			],
+
+			imageDescription : [
+				'These are some butterflies',
+				'This is a giant mutant chicken',
+				'The wind puffed away the seeds of the dandelion',
+				'The bird is singing on the tree',
+				'Leaves are very green in spring',
+				'The lawn plays well'
+
 			]
 		},
 
@@ -17,7 +31,20 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
+				"summer_2.jpg",
+				"summer_3.jpeg",
+				"summer_4.jpeg",
+				"summer_5.jpeg",
+				"summer_6.jpeg"
+			],
+
+			imageDescription : [
+				'Those chairs are waiting for people come to the beach',
+				'Puppy is sleeping on the beach',
+				'These are some sunflowers',
+				'This is a wide lake',
+				'She is ready for swim',
+				'There is an island on the lake'
 			]
 		},
 
@@ -28,7 +55,20 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
+				"autumn_2.jpg",
+				"autumn_3.jpeg",
+				"autumn_4.jpeg",
+				"autumn_5.jpeg",
+				"autumn_6.jpeg"
+			],
+
+			imageDescription : [
+				'Leaves are going to red',
+				'Pumpkins and sunflowers on the table',
+				'Deer is looking at me',
+				'Autumn is a bumper season',
+				'Hallowmas is coming soon',
+				'Four leaves on the table'
 			]
 		},
 
@@ -39,7 +79,20 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
+				"winter_2.jpg",
+				"winter_3.jpeg",
+				"winter_4.jpeg",
+				"winter_5.jpeg",
+				"winter_6.jpeg"
+			],
+			
+			imageDescription : [
+				'Sunshine is across the forest',
+				'Snowman is smiling on the ground',
+				'Squirrel eats food which hid before winter',
+				'There is a red train',
+				'Are you eady for gift on Merry Christmas?',
+				'What we are looking for?'
 			]
 		}
 	};
